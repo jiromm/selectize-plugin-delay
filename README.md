@@ -60,9 +60,6 @@ Something about options...
 
 ## License
 
-Copyright © 2013–2016 [Aram Baghdasaryan](https://jiromm.com)
+Copyright © 2017 [Aram Baghdasaryan](https://jiromm.com) &nbsp; [![](https://img.shields.io/github/followers/jiromm.svg?style=social&label=@jiromm)](https://github.com/jiromm) &nbsp; [![](https://img.shields.io/twitter/follow/jiromm.svg?style=social&label=@jiromm)](https://twitter.com/jiromm)
 
 Licensed under the [MIT](https://github.com/jiromm/selectize-plugin-delay/blob/master/LICENSE)
-
-[![](https://img.shields.io/github/followers/jiromm.svg?style=social&label=@jiromm)](https://github.com/jiromm) &nbsp;
-[![](https://img.shields.io/twitter/follow/jiromm.svg?style=social&label=@jiromm)](https://twitter.com/jiromm)
